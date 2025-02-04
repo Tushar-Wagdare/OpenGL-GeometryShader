@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\15_GeometryShader\x64\Debug\GeometryShader.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\OpenGL\OpenGL-GeometryShader\x64\Debug\GeometryShader.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
